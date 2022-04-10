@@ -6,8 +6,6 @@ import telebot
 import random
 import sqlite3
 import threading
-from parses import *
-from database import *
 mama = ["жива","мертва"]
 BOT = telebot.TeleBot("5217412431:AAHPCZSije457hOGE7ow4CNAAnCVOLWBFzk")
 user_data = {}
